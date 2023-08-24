@@ -6,17 +6,22 @@
 
 [Link to the related issue(s) that this PR addresses, if applicable.]
 
-### Testing Instructions
+## Type of change
 
-[Describe the steps to test this PR. Include any relevant commands, configurations, or test data.]
+- [ ] New Tests
+- [ ] Refactor
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (PR would cause existing tests not to work as expected)
+- [ ] This change requires a documentation update
 
 ### Checklist
 
 - [ ] I have reviewed my own code for style and best practices.
-- [ ] I have written unit tests to cover my changes.
 - [ ] I have updated the documentation, if necessary.
 - [ ] I have considered backward compatibility (if applicable).
-- [ ] I have tested this code locally and it works as expected.
+- [ ] I have tested this code on multiple locales and it works as expected.
+- [ ] I have attached Allure report.
 
 ### Additional Notes
 
