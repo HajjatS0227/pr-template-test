@@ -1,10 +1,13 @@
 ### Description
 
-[Please provide a brief description of the changes made in this PR.]
+> Please provide a brief description of the changes made in this PR.
+
+
 
 ### Related Issue(s)
 
 [Jira Issue](url)
+
 
 ## Type of change
 
@@ -15,22 +18,24 @@
 - [ ] Breaking change (PR would cause existing tests not to work as expected)
 - [ ] This change requires a documentation update
 
-### Checklist
+
+## Checklist
 
 - [ ] I have reviewed my own code for style and best practices.
-- [ ] I have updated the documentation, if necessary.
 - [ ] I have considered backward compatibility (if applicable).
 - [ ] I have tested this code on multiple locales, and it works as expected.
 - [ ] I have attached Allure report.
-- [ ] I have updated documentation as needed.
+- [ ] I have updated documentation as needed
 
-### Additional Notes
+## Additional Notes
 
-[Include any additional information or context about this PR.]
+> Include any additional information or context about this PR.
 
-### Checklist for Reviewers
+***
 
-Reviewers, please ensure that the following items have been addressed in this PR:
+## Checklist for Reviewers
+
+#### Reviewers, please ensure that the following items have been addressed in this PR:
 
 - [ ] PR description is clear and concise.
 - [ ] Code quality checks have been passed.
