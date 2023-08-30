@@ -10,5 +10,7 @@ public class helloWorld {
         System.out.println("Hello for the new demo");
         System.out.println("Hello for the new demo");
         System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
     }
 }
