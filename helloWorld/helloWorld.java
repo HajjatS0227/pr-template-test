@@ -6,5 +6,9 @@ public class helloWorld {
         System.out.println("Hello again template");
         System.out.println("Hello for the demo");
         System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
+        System.out.println("Hello for the new demo");
     }
 }
