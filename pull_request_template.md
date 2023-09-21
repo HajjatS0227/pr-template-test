@@ -8,7 +8,6 @@
 
 [Jira Issue](url)
 
-
 ## Type of change
 
 - [ ] <input type="checkbox" enabled> Adding tests
@@ -31,3 +30,28 @@
 ## Additional Notes
 
 > Include any additional information or context about this PR.
+
+***
+
+## Checklist for Reviewers
+
+
+#### Reviewers, please ensure that the following items have been addressed in this PR:
+
+- [ ] PR description is clear and concise.
+- [ ] Code quality checks have been passed.
+- [ ] Locale testing has been completed and documented.
+- [ ] Code style and quality have been verified.
+- [ ] Documentation updates have been made as needed.
+- [ ] Any additional notes or context have been provided.
+
+### Checklist for Reviewers
+
+Reviewers, please ensure that the following items have been addressed in this PR:
+
+- [ ] PR description is clear and concise.
+- [ ] Code quality checks have been passed.
+- [ ] Locale testing has been completed and documented.
+- [ ] Code style and quality have been verified.
+- [ ] Documentation updates have been made as needed.
+- [ ] Any additional notes or context have been provided.
